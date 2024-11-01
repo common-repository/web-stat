@@ -1,0 +1,51 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Olivier Galy <olivier@followmail.com>\n"
+"Language-Team: \n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.4\n"
+
+msgid "Web-Stat"
+msgstr "Web-Stat"
+
+msgid "Change plan"
+msgstr "Plan ändern"
+
+msgid "Configure"
+msgstr "Konfigurieren"
+
+msgid "Configure Web-Stat"
+msgstr "Web-Stat konfigurieren"
+
+msgid "Free, real-time stats for your website with full visitor details and traffic analytics."
+msgstr "Kostenlose, Echtzeit-Statistiken für Ihre Website mit vollständigen Besucherdetails und Verkehrsanalyse."
+
+msgid "Get 24/7 support"
+msgstr "Erhalten Sie 24/7-Support"
+
+msgid "Get support"
+msgstr "Support"
+
+msgid "Get Support"
+msgstr "Support"
+
+msgid "https://www.web-stat.com/"
+msgstr "https://www.web-stat.com/"
+
+msgid "Upgrade"
+msgstr "Upgrade"
+
+msgid "View my stats"
+msgstr "Zeige stats"
+
+msgid "View Stats"
+msgstr "Zeige Stats"
+
+msgid "Web-Stat Traffic Analytics"
+msgstr "Web-Stat Verkehrsanalysen"

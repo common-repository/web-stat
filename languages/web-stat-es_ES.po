@@ -1,0 +1,86 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Web-Stat\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-07-04 16:02+0000\n"
+"PO-Revision-Date: 2024-08-15 08:39-0400\n"
+"Last-Translator: Olivier Galy <olivier@followmail.com>\n"
+"Language-Team: Español\n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Loco-Version: 2.6.10; wp-6.5.5\n"
+"X-Domain: web-stat\n"
+
+#. Author of the plugin
+msgid "<a href=\"https://www.web-stat.com\" target=\"_new\">Web-Stat</a>"
+msgstr "<a href=\"https://es.web-stat.com\" target=\"_new\">Web-Stat</a>"
+
+#. Parent slug (use the slug of the top-level menu)
+#. Page title
+#: Web-Stat.php:160 Web-Stat.php:161 Web-Stat.php:263
+msgid "Configure"
+msgstr "Configurar"
+
+#: Web-Stat.php:263 Web-Stat.php:279
+msgid "Configure Web-Stat"
+msgstr "Configurar Web-Stat"
+
+#. Description of the plugin
+msgid "Free, real-time stats for your website with full visitor details and traffic analytics."
+msgstr "Estadísticas gratuitas y en tiempo real para tu sitio web con detalles completos de los visitantes y análisis del tráfico."
+
+#: Web-Stat.php:264 Web-Stat.php:279
+msgid "Get 24/7 support"
+msgstr "Soporte 24/7"
+
+#. Parent slug (use the slug of the top-level menu)
+#. Page title
+#: Web-Stat.php:170 Web-Stat.php:171
+msgid "Get Support"
+msgstr "Soporte"
+
+#: Web-Stat.php:264
+msgid "Get support"
+msgstr "Soporte"
+
+#. URI of the plugin
+msgid "https://www.web-stat.com/"
+msgstr "https://es.web-stat.com/"
+
+#. Parent slug (use the slug of the top-level menu)
+#. Page title
+#: Web-Stat.php:180 Web-Stat.php:181 Web-Stat.php:265 Web-Stat.php:279
+msgid "Upgrade"
+msgstr "Actualizar"
+
+msgid "Change plan"
+msgstr "Cambiar plan"
+
+#: Web-Stat.php:262 Web-Stat.php:279
+msgid "View my stats"
+msgstr "Ver mis stats"
+
+#: Web-Stat.php:265
+msgid "View paid plans"
+msgstr "Ver planes pagos"
+
+#. Parent slug (should match the menu slug of the parent item)
+#. Page title
+#: Web-Stat.php:151 Web-Stat.php:152
+msgid "View Stats"
+msgstr "Ver Stats"
+
+#. Page title
+#. Widget slug
+#. Name of the plugin
+#: Web-Stat.php:142 Web-Stat.php:236
+msgid "Web-Stat"
+msgstr "Web-Stat"
+
+#: Web-Stat.php:141
+msgid "Web-Stat Traffic Analytics"
+msgstr "Análisis de tráfico de Web-Stat"
